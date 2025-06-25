@@ -1,0 +1,1 @@
+A full-stack document authentication system using QR codes. This app allows users to generate and verify documents via a secure backend and display a unique QR code for easy scanning and verification.
